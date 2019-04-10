@@ -33,7 +33,7 @@ dev_dependencies:
   flutter_driver:
     sdk: flutter
   test: ^1.5.1
-  screenshots: ^0.1.6
+  screenshots: ^0.1.7
   intl_translation: ^0.17.2
 
 
